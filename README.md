@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claraegler
-- 👀 I’m interested in Front and Back-End
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning UX Design, Java
 - 📫 How to reach me:
 
 https://www.instagram.com/clainha/
