@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @claraegler
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning UX Design, Java
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
 
-https://www.instagram.com/clainha/
-
-https://twitch.tv/clainha
+www.linkedin.com/in/clara-egler
 
 
 <!---
