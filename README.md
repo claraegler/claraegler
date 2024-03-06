@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @claraegler
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Cyber Security
 - 📫 How to reach me:
 
 www.linkedin.com/in/clara-egler
